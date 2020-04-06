@@ -1,0 +1,3 @@
+﻿  menu.cpp
+C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\menu.cpp(329,40): warning C4244:  '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Calculadora de pedidos.vcxproj -> C:\Users\alvar\source\repos\Calculadora de pedidos\x64\Debug\Calculadora de pedidos.exe

@@ -1,0 +1,8 @@
+﻿  menu.cpp
+C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\menu.cpp(329,40): warning C4244:  '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código
+  3 of 222 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+  Generación de código finalizada
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Calculadora de pedidos.vcxproj -> C:\Users\alvar\source\repos\Calculadora de pedidos\x64\Release\Calculadora de pedidos.exe

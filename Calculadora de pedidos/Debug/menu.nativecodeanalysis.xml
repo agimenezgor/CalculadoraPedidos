@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+      <FILENAME>menu.cpp</FILENAME>
+      <LINE>78</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "*" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "*" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>referenciaCambiada</FUNCTION>
+    <DECORATED>?referenciaCambiada@@YA_NHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>46</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+      <FILENAME>menu.cpp</FILENAME>
+      <LINE>78</LINE>
+      <COLUMN>33</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "-" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "-" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>referenciaCambiada</FUNCTION>
+    <DECORATED>?referenciaCambiada@@YA_NHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>46</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+      <FILENAME>menu.cpp</FILENAME>
+      <LINE>104</LINE>
+      <COLUMN>39</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "*" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "*" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>mediaCambiada</FUNCTION>
+    <DECORATED>?mediaCambiada@@YA_NHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>89</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+      <FILENAME>menu.cpp</FILENAME>
+      <LINE>104</LINE>
+      <COLUMN>34</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "-" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "-" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>mediaCambiada</FUNCTION>
+    <DECORATED>?mediaCambiada@@YA_NHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>89</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+      <FILENAME>menu.cpp</FILENAME>
+      <LINE>114</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "*" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "*" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>mediaCambiada</FUNCTION>
+    <DECORATED>?mediaCambiada@@YA_NHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>89</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+      <FILENAME>menu.cpp</FILENAME>
+      <LINE>114</LINE>
+      <COLUMN>33</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "-" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "-" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>mediaCambiada</FUNCTION>
+    <DECORATED>?mediaCambiada@@YA_NHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>89</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+      <FILENAME>menu.cpp</FILENAME>
+      <LINE>284</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Se omitió el valor devuelto: 'getchar'.</DESCRIPTION>
+    <FUNCTION>menuCalcularPedido</FUNCTION>
+    <DECORATED>?menuCalcularPedido@@YAXXZ</DECORATED>
+    <FUNCLINE>188</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+      <FILENAME>menu.cpp</FILENAME>
+      <LINE>231</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>Usando la memoria sin inicializar 'numprovAux'.</DESCRIPTION>
+    <FUNCTION>menuCalcularPedido</FUNCTION>
+    <DECORATED>?menuCalcularPedido@@YAXXZ</DECORATED>
+    <FUNCLINE>188</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>192</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>193</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>194</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>195</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>197</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>199</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>200</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>202</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>204</LINE>
+        <COLUMN>5</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaración</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'numprovAux' no se ha inicializado</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>205</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>206</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>208</LINE>
+        <COLUMN>23</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>bifurcar</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Omitir este bucle, (se asume que '&lt;condición de bifurcación&gt;' es false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>217</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>218</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>219</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>220</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>221</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>224</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>225</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>226</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>228</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>230</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>230</LINE>
+        <COLUMN>15</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>bifurcar</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Entrar en este bucle, (se asume 'j&lt;20')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>231</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+        <FILENAME>menu.cpp</FILENAME>
+        <LINE>231</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>uso</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Se usa 'numprovAux', pero puede que no se haya inicializado</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+      <FILENAME>menu.cpp</FILENAME>
+      <LINE>430</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Se omitió el valor devuelto: 'getchar'.</DESCRIPTION>
+    <FUNCTION>menuNuevoProveedor</FUNCTION>
+    <DECORATED>?menuNuevoProveedor@@YAXXZ</DECORATED>
+    <FUNCLINE>420</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+      <FILENAME>menu.cpp</FILENAME>
+      <LINE>487</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Se omitió el valor devuelto: 'getchar'.</DESCRIPTION>
+    <FUNCTION>menuNuevoProveedor</FUNCTION>
+    <DECORATED>?menuNuevoProveedor@@YAXXZ</DECORATED>
+    <FUNCLINE>420</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+      <FILENAME>menu.cpp</FILENAME>
+      <LINE>609</LINE>
+      <COLUMN>36</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "*" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "*" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>proveedorCambiado</FUNCTION>
+    <DECORATED>?proveedorCambiado@@YA_NH@Z</DECORATED>
+    <FUNCLINE>574</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+      <FILENAME>menu.cpp</FILENAME>
+      <LINE>609</LINE>
+      <COLUMN>32</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "-" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "-" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>proveedorCambiado</FUNCTION>
+    <DECORATED>?proveedorCambiado@@YA_NH@Z</DECORATED>
+    <FUNCLINE>574</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\alvar\source\repos\Calculadora de pedidos\Calculadora de pedidos\Debug\</FILEPATH>
+      <FILENAME>menu.cpp</FILENAME>
+      <LINE>764</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Se omitió el valor devuelto: 'getchar'.</DESCRIPTION>
+    <FUNCTION>menuModificarDatos</FUNCTION>
+    <DECORATED>?menuModificarDatos@@YAXXZ</DECORATED>
+    <FUNCLINE>657</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
